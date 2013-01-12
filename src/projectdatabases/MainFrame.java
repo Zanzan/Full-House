@@ -6,7 +6,7 @@ package projectdatabases;
 
 /**
  *
- * @author nelssalminen
+ * @author Elmar Vriend, Kevin Kerkhoven, Nels Numan, Yasen Dinkov
  */
 public class MainFrame extends javax.swing.JFrame {
 
